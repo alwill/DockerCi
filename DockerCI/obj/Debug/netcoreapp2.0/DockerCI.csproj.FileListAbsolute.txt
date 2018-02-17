@@ -1,0 +1,11 @@
+C:\Dev\DockerCI\DockerCI\bin\Debug\netcoreapp2.0\DockerCI.deps.json
+C:\Dev\DockerCI\DockerCI\bin\Debug\netcoreapp2.0\DockerCI.runtimeconfig.json
+C:\Dev\DockerCI\DockerCI\bin\Debug\netcoreapp2.0\DockerCI.runtimeconfig.dev.json
+C:\Dev\DockerCI\DockerCI\bin\Debug\netcoreapp2.0\DockerCI.dll
+C:\Dev\DockerCI\DockerCI\bin\Debug\netcoreapp2.0\DockerCI.pdb
+C:\Dev\DockerCI\DockerCI\obj\Debug\netcoreapp2.0\DockerCI.csprojResolveAssemblyReference.cache
+C:\Dev\DockerCI\DockerCI\obj\Debug\netcoreapp2.0\DockerCI.csproj.CoreCompileInputs.cache
+C:\Dev\DockerCI\DockerCI\obj\Debug\netcoreapp2.0\DockerCI.AssemblyInfoInputs.cache
+C:\Dev\DockerCI\DockerCI\obj\Debug\netcoreapp2.0\DockerCI.AssemblyInfo.cs
+C:\Dev\DockerCI\DockerCI\obj\Debug\netcoreapp2.0\DockerCI.dll
+C:\Dev\DockerCI\DockerCI\obj\Debug\netcoreapp2.0\DockerCI.pdb

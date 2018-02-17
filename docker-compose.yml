@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dockerci:
+    image: dockerci
+    build:
+      context: ./DockerCI
+      dockerfile: Dockerfile
